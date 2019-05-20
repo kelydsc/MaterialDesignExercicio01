@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Digital House</string>
+    <string name="action_settings">Settings</string>
+    <string name="email2">\@string/email2</string>
+</resources>
